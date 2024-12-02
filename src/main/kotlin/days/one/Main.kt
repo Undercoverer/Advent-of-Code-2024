@@ -1,7 +1,6 @@
 package days.one
 
 import util.getDayInput
-import java.util.concurrent.atomic.LongAccumulator
 import kotlin.math.abs
 
 fun main() {
